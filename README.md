@@ -1,3 +1,1 @@
-1- Aller dans le dossier cient
-2- Exécuter "npm install"
-3- Exécuter npm start pour lancer l'application web
+Aller dans le dossier cient, exécuter "npm install" pour les dépendances puis finalement exécuter npm start pour lancer l'application web
